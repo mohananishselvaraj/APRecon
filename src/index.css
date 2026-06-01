@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-redwood-accent: #C54E35;
+  --color-redwood-accent-hover: #A73E28;
+  --color-redwood-dark: #312E2B;
+  --color-redwood-dark-hover: #211F1D;
+  --color-redwood-sand: #FAF8F5;
+  --color-redwood-sand-dark: #EFECE7;
+  --color-redwood-border: #E5DDD5;
+  --color-redwood-text-main: #312E2B;
+  --color-redwood-text-muted: #6E665E;
+}

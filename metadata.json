@@ -1,0 +1,5 @@
+{
+  "name": "With Payment: Supplier AP Invoice Reconciliation",
+  "description": "Enterprise application for searching AP invoices, performing bulk updates, and managing payment batches.",
+  "requestFramePermissions": []
+}
